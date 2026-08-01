@@ -325,10 +325,10 @@ Result on count data:
 **Visualization:**
 ```
 Actual Distribution:     Predictions with MSE:
-        |                       |
-        |*        Actual       | **
-        |***                   | ****
-        |*****              vs | ******* (stays near mean)
+        |                     |
+        |*        Actual      | **
+        |***                  | ****
+        |*****             vs | ******* (stays near mean)
         |*********            | *****
         |*********************| ****
     0  20  40  60 80          0  20  40  60 80
